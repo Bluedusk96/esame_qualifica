@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Erboristeria</title>
+    <title>PALESTRA</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -29,7 +29,7 @@
 			<div class="row">
 				<div class="col-md-2">
 					<div class="site-logo">
-						<a href="index.html" class="brand">Erboristeria Natura Divina</a>
+						<a href="index.html" class="brand">Cesena Fitness</a>
 						
 					</div>
 				</div>					  
@@ -47,7 +47,7 @@
 							  <li><a href="#home">Home</a></li>
 							  <!--  <li><a href="#about">About Us</a></li> -->
 							 <!--   <li><a href="#portfolio">Prodotti</a></li> -->
-							  <li><a href="#features">Prodotti</a></li>				                                                                  								  
+							  <li><a href="#features">Offerte</a></li>				                                                                  								  
 							  <li><a href="#contact">Contatti</a></li>
 						</ul>
 					</div>
@@ -339,43 +339,43 @@
 				</div> 
 				
 				<div class="col-md-4 wow fadeInLeft">
-					<h3>Piante Officinali</h3>
-					<img src="images/portfolio/recent/Piante Officinali p.jpg" alt="">
+					<h3>Offerte</h3>
+					<img src="images/portfolio/recent/D1.jpg" alt="">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
 					non cupidatat skateboard dolor brunch.</p>
 				</div>
 				
 				<div class="col-md-4 wow fadeInUp">
-					<h3>Integratori Alimentari</h3>
-					<img src="images/portfolio/recent/integratori alimentari naturali p.jpg" alt="">
+					<h3>Zumba</h3>
+					<img src="images/portfolio/recent/D.jpg" alt="">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
 					non cupidatat skateboard dolor brunch.</p>
 				</div>
 				
 				<div class="col-md-4 wow fadeInRight">
-					<h3>Alimenti senza glutine</h3>
-					<img src="images/portfolio/recent/alimenti senza glutine p.jpg" alt="">
+					<h3>Difesa Personale</h3>
+					<img src="images/portfolio/recent/E.jpg" alt="">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
 					non cupidatat skateboard dolor brunch.</p>
 				</div>
 				
 	 		<div class="col-md-4 wow fadeInRight">
-					<h3>Cosmesi Ecobio</h3>
-					<img src="images/portfolio/recent/Cosmesi ecobio p.jpg" alt="">
+					<h3>Pesistica</h3>
+					<img src="images/portfolio/recent/F.jpg" alt="">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
 					non cupidatat skateboard dolor brunch.</p>
 				</div>
 				
 				<div class="col-md-4 wow fadeInRight">
-					<h3>Pannolini Lavabili</h3>
-					<img src="images/portfolio/recent/pannolini lavabili p.jpg" alt="">
+					<h3>Ginnastica Artistica</h3>
+					<img src="images/portfolio/recent/G.jpg" alt="">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
 					non cupidatat skateboard dolor brunch.</p>
 				</div>
 				
 				<div class="col-md-4 wow fadeInRight">
-					<h3>Candele di soia</h3>
-					<img src="images/portfolio/recent/candles p.jpg" alt="">
+					<h3>Pole dance</h3>
+					<img src="images/portfolio/recent/H.jpg" alt="">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
 					non cupidatat skateboard dolor brunch.</p>
 				</div>
